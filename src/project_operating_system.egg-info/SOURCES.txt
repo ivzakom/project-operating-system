@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/pos/__init__.py
+src/pos/cli.py
+src/project_operating_system.egg-info/PKG-INFO
+src/project_operating_system.egg-info/SOURCES.txt
+src/project_operating_system.egg-info/dependency_links.txt
+src/project_operating_system.egg-info/entry_points.txt
+src/project_operating_system.egg-info/requires.txt
+src/project_operating_system.egg-info/top_level.txt
